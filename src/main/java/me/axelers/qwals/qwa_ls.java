@@ -88,7 +88,7 @@ public class qwa_ls extends JavaPlugin implements Listener {
             if (meta != null && "§cCancel".equals(meta.getDisplayName())) {
                 if (queue.contains(player)) {
                     queue.remove(player);
-                    player.sendMessage("You have been removed from the queue!");
+                    player.sendMessage("You have been removed from the queue! nooooooo");
 
                     // Remove the scute from the player's inventory
                     player.getInventory().setItemInMainHand(createStartEmerald());
