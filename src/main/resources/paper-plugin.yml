@@ -1,0 +1,4 @@
+name: qwa-ls
+version: '${project.version}'
+main: me.axelers.qwals.qwa_ls
+api-version: '1.20'

@@ -1,0 +1,4 @@
+name: qwa-ls
+version: '1.0-SNAPSHOT'
+main: me.axelers.qwals.qwa_ls
+api-version: '1.20'
